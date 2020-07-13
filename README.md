@@ -2,7 +2,7 @@
 
 Toy implementation of the [FABRIK algorithm](FABRIK.pdf) (Forward And Backward Reaching Inverse Kinematics) for learning purposes.
 
-![](docs/phase1.webm)
+![](https://github.com/nitrix/learnik/raw/master/docs/phase1.webm)
 
 ![](docs/phase2.webm)
 
