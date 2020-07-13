@@ -1,4 +1,4 @@
-# learnik
+# Learn Inverse Kinematics (learnik)
 
 Toy implementation of the [FABRIK algorithm](FABRIK.pdf) (Forward And Backward Reaching Inverse Kinematics) for learning purposes.
 
