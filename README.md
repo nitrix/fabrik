@@ -1,6 +1,6 @@
-# Learn Inverse Kinematics (learnik)
+# FABRIK Inverse Kinematics (fabrik)
 
-Toy implementation of the [FABRIK algorithm](FABRIK.pdf) (Forward And Backward Reaching Inverse Kinematics) for learning purposes.
+Proof-of-concept implementation of the [FABRIK algorithm](FABRIK.pdf) (Forward And Backward Reaching Inverse Kinematics).
 
 ![](docs/phase1.gif)
 
