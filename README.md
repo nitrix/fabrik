@@ -1,6 +1,6 @@
 # FABRIK Inverse Kinematics (fabrik)
 
-Proof-of-concept implementation of the [FABRIK algorithm](FABRIK.pdf) (Forward And Backward Reaching Inverse Kinematics).
+Proof-of-concept implementation of the [FABRIK algorithm](docs/FABRIK.pdf) (Forward And Backward Reaching Inverse Kinematics).
 
 ![](docs/phase1.gif)
 
